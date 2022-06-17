@@ -1,0 +1,11 @@
+                     GIT COMMANDS
+1.git init
+2.git status
+3.git config --global user.name "git user name mention hear"
+4.git config --global user.email "git email address"
+5.git remote add origin <url>
+6.git pull --origin master
+7.git add .(mention . is add the all local files)
+8.git commit -m "commit name".
+9.git logs (history)
+10.git push -u origin master (or) git push --origin master
